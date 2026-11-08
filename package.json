@@ -1,0 +1,9 @@
+{
+  "name": "ciphec26-programme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plateforme de gestion du programme scientifique – 1CIPHEC26 (ASPEc)",
+  "dependencies": {
+    "@upstash/redis": "1.34.3"
+  }
+}
